@@ -1,6 +1,5 @@
 {
     "name": "Anycubic Frontend Card",
     "filename": "anycubic-card.js",
-    "render_readme": true,
-    "homeassistant": "2024.9.0"
+    "render_readme": true
 }
